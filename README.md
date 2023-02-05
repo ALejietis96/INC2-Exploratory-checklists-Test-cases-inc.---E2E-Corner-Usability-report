@@ -72,16 +72,16 @@
 
   - Test cases that were created by me:
   
-    - <i>Automated investment end-to-end test case E2EAI-3.pdf
+    - <i>[Automated investment end-to-end test case E2EAI-3.pdf](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Automated%20investment%20end-to-end%20test%20case%20E2EAI-3.pdf)
     
-    - Corner test cases.pdf
+    - [Corner test cases.pdf](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Corner%20test%20cases.pdf)
     
-    - Test cases - Account.pdf
+    - [Test cases - Account.pdf](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Test%20cases%20-%20Account.pdf)
     
-    - Test cases Filters, invest.pdf</i>
+    - [Test cases Filters, invest.pdf</i>](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Test%20cases%20Filters%2C%20invest.pdf)
     
-  - <i>Usability report.pdf</i> - Usability report conducted by me during the sprint.
+  - <i>[Usability report.pdf</i>](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Usability%20report.pdf) - Usability report conducted by me during the sprint.
   
-  - <i>Exploratory testing checklist.pdf</i> - Procedures of exploratory testing and found bug summary during execution.
+  - <i>[Exploratory testing checklist.pdf</i>](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Exploratory%20testing%20checklist.pdf) - Procedures of exploratory testing and found bug summary during execution.
   
-  - <i>Sprint testing report.pdf</i> - Summary report of all our created test cases and bugs during project sprints.
+  - <i>[Sprint testing report.pdf</i>](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report/blob/main/Sprint%20testing%20report.pdf) - Summary report of all our created test cases and bugs during project sprints.
