@@ -2,9 +2,9 @@
 
 <b>My third project that I participated during my time in Cerebrum Hub.</b>
 
-- <b>Project about:</b>
+<b>Project about:</b>
 
-  - <c>During the third project, the testing teams were working on a real project - https://getincome.com/
+  - <c>During the third project, the testing teams were working on a real project - [Income Marketplace](https://getincome.com/)
   
   - The Income marketplace is the first platform to offer simple and secured investments in loans.
   
@@ -14,7 +14,7 @@
   
     - API documentation covered what was necessary for testing, but was outdated with incomplete loose ends for what all ID's was meant to do.</c>
 
-- <b>Sprint about:</b>
+<b>Sprint about:</b>
 
   - <b>This was an existing project that I had to:
 
@@ -34,9 +34,7 @@
         
         - Learn how to perform API testing using Swagger and Postman.
         
-        - Creation of Automated Loan Originator (My own incentive, with Zero prior JavaScript knowledge):
-          
-          - https://github.com/ALejietis96/INC2-Automated-Loan-Originator
+        - [Creation of Automated Loan Originator](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b>(My own initiative, <i>without</i> prior JavaScript knowledge)</b>
       
   - <b>Major products (public outcomes):</b>
   
@@ -68,22 +66,22 @@
 
     - Week 8: Summary, retrospective.
   
-- <b>Files about:</b>
+<b>Files about:</b>
 
-  - <c>If in the file there are highlights with yellow, those are topics, that I contributed to.
+  <i>If in the file there are highlights with yellow, those are topics, that I contributed to.</i>
 
-  - Test cases - test cases that were created by me:</c>
+  - Test cases that were created by me:
   
-    - Automated investment end-to-end test case E2EAI-3
+    - <i>Automated investment end-to-end test case E2EAI-3.pdf
     
-    - Corner test cases
+    - Corner test cases.pdf
     
-    - Test cases - Account
+    - Test cases - Account.pdf
     
-    - Test cases Filters, invest
+    - Test cases Filters, invest.pdf</i>
     
-  - Usability report - Usability report conducted by me during the sprint.
+  - <i>Usability report.pdf</i> - Usability report conducted by me during the sprint.
   
-  - Exploratory testing checklist - Procedures of exploratory testing and found bug summary during execution.
+  - <i>Exploratory testing checklist.pdf</i> - Procedures of exploratory testing and found bug summary during execution.
   
-  - Sprint testing report - Summary report of all our created test cases and bugs during project sprints.
+  - <i>Sprint testing report.pdf</i> - Summary report of all our created test cases and bugs during project sprints.
